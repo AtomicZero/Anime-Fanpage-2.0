@@ -29,7 +29,7 @@ This is my anime fanpage. Just to practice some of the basic HTML elements:
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Mock-up
-![Google Slides](https://docs.google.com/presentation/d/112vsY4G2xVOHX-OdxEd1MDtYZjYEMxRW0V-2bCjO_DY/edit?usp=sharing)
+- [Google Slides](https://docs.google.com/presentation/d/112vsY4G2xVOHX-OdxEd1MDtYZjYEMxRW0V-2bCjO_DY/edit?usp=sharing)
 
 ## How To Use
 - The working page can be viewed on [GitHub Pages](https://atomiczero.github.io/Anime-Fanpage-2.0/)
